@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		180197B62049DFFA00F8BD50 /* avanceproyecto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = avanceproyecto; sourceTree = BUILT_PRODUCTS_DIR; };
 		180197B92049DFFA00F8BD50 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		180197C02049E25100F8BD50 /* Pelicula.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pelicula.h; sourceTree = "<group>"; };
+		180197C12049F1CE00F8BD50 /* Hora.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Hora.h; sourceTree = "<group>"; };
+		180197C22049F48500F8BD50 /* Actor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Actor.h; sourceTree = "<group>"; };
+		180197C32049F82300F8BD50 /* Funcion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Funcion.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +45,10 @@
 		180197AD2049DFFA00F8BD50 = {
 			isa = PBXGroup;
 			children = (
+				180197C02049E25100F8BD50 /* Pelicula.h */,
+				180197C12049F1CE00F8BD50 /* Hora.h */,
+				180197C22049F48500F8BD50 /* Actor.h */,
+				180197C32049F82300F8BD50 /* Funcion.h */,
 				180197B82049DFFA00F8BD50 /* avanceproyecto */,
 				180197B72049DFFA00F8BD50 /* Products */,
 			);
